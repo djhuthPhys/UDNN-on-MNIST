@@ -4,3 +4,6 @@ This repository contains files for loading MNIST data into numpy arrays ('NN_ima
 
 Dependencies:
   'UDNN_MNIST_utils.py' is dependent on the other two files for proper execution
+
+
+NOTE: 'NN_image_prep.py' also contains functions for another application that may be ignored for use with 'UDNN_MNIST_utils.py'
